@@ -1,0 +1,10 @@
+CATALOG_NAME: Workspace
+SCHEMA_NAME: default
+TABLE_NAME: movie_ratings
+VOLUME_NAME: hybrid_recommendation_system
+MODEL_NAME: hybrid_recommendation_system
+ARTIFACT_NAME: hybrid_recommendation_system
+MLFLOW_URI: s3://my-ml-artifacts/mlflow
+EXPERIMENT_NAME: /Users/samiasaeed0006@gmail.com/hybrid_recommendation_system
+ENDPOINT_NAME: hyhbrid_recommenadtion_system
+ENV: development
